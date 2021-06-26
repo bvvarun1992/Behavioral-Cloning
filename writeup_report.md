@@ -12,8 +12,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/architecture.jpg "Model Visualization"
-[image2]: ./examples/structure.jpg "Final architecture"
+[image1]: ./examples/architecture.JPG "Model Visualization"
+[image2]: ./examples/structure.JPG "Final architecture"
 [image3]: ./examples/center.png "Center image"
 [image4]: ./examples/center_flip.png "flip image"
 [image5]: ./examples/crop.png "cropped image"
